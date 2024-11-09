@@ -1,7 +1,7 @@
 - 💻 sshx-terminal-vps-Colab [![License: MIT][License-Badge]](LICENSE)
 
 ## Open notebook here:
-<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/sshx-terminal-vps/blob/master/" target="_blank">
+<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/sshx-terminal-vps/blob/master/sshx-terminal-vps/sshx-terminal-vps.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
   </a></p>  
 
