@@ -1,11 +1,11 @@
-# 💻 sshx-terminal-vps-Colab [![License: MIT][License-Badge]](LICENSE)
+- 💻 sshx-terminal-vps-Colab [![License: MIT][License-Badge]](LICENSE)
 
 # Open notebook here:
 <p align=center><a href="https://colab.research.google.com/github/SudoR2spr/sshx-terminal-vps/blob/master/" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
   </a></p>  
 
-  # Colab Threatens to Ban, Why?
+  ## Colab Threatens to Ban, Why?
 
 **Recent changes in Colaboratory T&C prohibits the following actions and could result in ban from colab[^1].**
 
@@ -27,7 +27,7 @@ The changes are made because resources in Colab are prioritized for interactive 
 <p align="center">
 
 
-# ⬇️ sshx-terminal-vps
+- ⬇️ sshx-terminal-vps
 
 <p align="center">
   <a href="https://github.com/SudoR2spr/sshx-terminal-vps" target="_blank">
@@ -45,8 +45,8 @@ The changes are made because resources in Colab are prioritized for interactive 
 </p>
  
 -----
-# Main Credit: [Ekzhang](https://github.com/ekzhang)
-# Credit: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
+- Main Credit: [Ekzhang](https://github.com/ekzhang)
+- Credit: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [Code Issues]:          https://img.shields.io/github/issues/SudoR2spr/sshx-terminal-vps?label=Issues
